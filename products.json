@@ -1,0 +1,38 @@
+[
+    {
+        "name": "Wireless Headphones",
+        "description": "High-quality wireless headphones for music lovers.",
+        "image": "https://via.placeholder.com/200x200/3498db/ffffff?text=Headphones",
+        "affiliateLink": "PASTE_AFFILIATE_LINK_HERE"
+    },
+    {
+        "name": "Smartphone Stand",
+        "description": "Adjustable stand perfect for video calls and streaming.",
+        "image": "https://via.placeholder.com/200x200/e74c3c/ffffff?text=Phone+Stand",
+        "affiliateLink": "PASTE_AFFILIATE_LINK_HERE"
+    },
+    {
+        "name": "Coffee Maker",
+        "description": "Brew delicious coffee at home with this easy-to-use machine.",
+        "image": "https://via.placeholder.com/200x200/2ecc71/ffffff?text=Coffee+Maker",
+        "affiliateLink": "PASTE_AFFILIATE_LINK_HERE"
+    },
+    {
+        "name": "Fitness Tracker",
+        "description": "Track your steps, heart rate, and more with this sleek device.",
+        "image": "https://via.placeholder.com/200x200/f39c12/ffffff?text=Fitness+Tracker",
+        "affiliateLink": "PASTE_AFFILIATE_LINK_HERE"
+    },
+    {
+        "name": "Laptop Backpack",
+        "description": "Durable and stylish backpack for your daily commute.",
+        "image": "https://via.placeholder.com/200x200/9b59b6/ffffff?text=Backpack",
+        "affiliateLink": "PASTE_AFFILIATE_LINK_HERE"
+    },
+    {
+        "name": "LED Desk Lamp",
+        "description": "Energy-efficient lamp with adjustable brightness.",
+        "image": "https://via.placeholder.com/200x200/1abc9c/ffffff?text=Desk+Lamp",
+        "affiliateLink": "PASTE_AFFILIATE_LINK_HERE"
+    }
+]
